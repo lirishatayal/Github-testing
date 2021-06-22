@@ -1,6 +1,9 @@
-Welcome Unicorn
+Welcome Unicorn and colours
 Learning Github
 Blue
 Green
 Purple
 Orange
+pink
+black
+grey
